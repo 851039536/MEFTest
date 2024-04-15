@@ -104,7 +104,8 @@ namespace EmailSender
         /// <summary>
         /// 使用MEF的ImportMany属性导入所有IMessageSender2接口的实例  
         /// </summary>
-        [ImportMany(typeof(IMessageSender2))] public IEnumerable<Lazy<IMessageSender2>> MessageSenders2 { get; set; }
+        [ImportMany(typeof(IMessageSender2))]
+        public IEnumerable<Lazy<IMessageSender2>> MessageSenders2 { get; set; }
 
         /// <summary>
         /// 运行已加载的插件，即调用每个IMessageSender2实例的Send2方法
