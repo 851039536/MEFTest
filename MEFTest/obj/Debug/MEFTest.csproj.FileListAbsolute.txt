@@ -1,0 +1,9 @@
+D:\sw\Console\MEFTest\MEFTest\bin\Debug\MEFTest.exe
+D:\sw\Console\MEFTest\MEFTest\bin\Debug\MEFTest.pdb
+D:\sw\Console\MEFTest\MEFTest\bin\Debug\EmailSender.dll
+D:\sw\Console\MEFTest\MEFTest\bin\Debug\EmailSender.pdb
+D:\sw\Console\MEFTest\MEFTest\obj\Debug\MEFTest.csproj.AssemblyReference.cache
+D:\sw\Console\MEFTest\MEFTest\obj\Debug\MEFTest.csproj.CoreCompileInputs.cache
+D:\sw\Console\MEFTest\MEFTest\obj\Debug\MEFTest.csproj.Up2Date
+D:\sw\Console\MEFTest\MEFTest\obj\Debug\MEFTest.exe
+D:\sw\Console\MEFTest\MEFTest\obj\Debug\MEFTest.pdb

@@ -1,0 +1,6 @@
+D:\sw\Console\MEFTest\EmailSender\bin\Debug\EmailSender.dll
+D:\sw\Console\MEFTest\EmailSender\bin\Debug\EmailSender.pdb
+D:\sw\Console\MEFTest\EmailSender\obj\Debug\EmailSender.csproj.AssemblyReference.cache
+D:\sw\Console\MEFTest\EmailSender\obj\Debug\EmailSender.csproj.CoreCompileInputs.cache
+D:\sw\Console\MEFTest\EmailSender\obj\Debug\EmailSender.dll
+D:\sw\Console\MEFTest\EmailSender\obj\Debug\EmailSender.pdb
