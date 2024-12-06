@@ -1,4 +1,4 @@
-﻿namespace MEFTest
+﻿namespace EmailSender
 {
     /// <summary>
     /// 定义一个接口来包含插件的元数据  
