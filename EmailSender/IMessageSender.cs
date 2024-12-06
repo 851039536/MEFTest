@@ -1,4 +1,4 @@
-﻿namespace MEFTest  
+﻿namespace EmailSender  
 {  
     /// <summary>  
     /// 定义了消息发送者的契约。  
